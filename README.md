@@ -1,5 +1,10 @@
 # chainer-fast-neuralstyle-models
 
+Some models trained by different people using the [chainer fast neuralstyle app](https://github.com/yusuketomoto/chainer-fast-neuralstyle) by yusuketomoto.
+Please note, there has been a change on how the models are trained which makes them not suitable for the most recent version relased. Will update here soon.
+
+The animated gifs have been created with a simple "real-time" video capture wrapper written in python, will release the code shortly. 
+
 ModelName | Reference | Parameters | Style | Samples
 --- | --- | --- | --- | ---
 starrynight | [chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle) | unknown |![starrynight](images/starrynight-style.jpg) | ![starrynight](images/starrynight.jpg)
