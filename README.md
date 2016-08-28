@@ -23,4 +23,4 @@ Model Name | Reference | Parameters | Style | Samples
 --- | --- | --- | --- | ---
 Kanagawa | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512 (crop) | ![kanagawa](images/kanagawa-style.jpg)| ![kanagawa](images/kanagawa.jpg)
 [Ceremony](http://www.eevientan-design.com/) | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512 (crop) | ![ceremony](images/ceremony-style.jpg)| ![ceremony](images/ceremony.jpg)
-[Es brutal](http://cervezasyria.blogspot.com/) | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512 (crop) | ![brutal](images/es_brutal-style.jpg)| ![brutal](images/es_brutal.jpg)
+Fur | [6o6o](https://github.com/6o6o) | full coco, 1 epoch, image_size 512 (crop) | ![fur](images/fur-style.jpg)| ![fur](images/fur.jpg)
