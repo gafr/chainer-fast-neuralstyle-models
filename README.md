@@ -22,5 +22,5 @@ edtaonisl | uploaded by [6o6o](https://github.com/6o6o) | full coco training set
 Model Name | Reference | Parameters | Style | Samples
 --- | --- | --- | --- | ---
 Kanagawa | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512 (crop) | ![kanagawa](images/kanagawa-style.jpg)| ![kanagawa](images/kanagawa.jpg)
-[Ceremony](http://www.eevientan-design.com/) | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512 (crop) | ![ceremony](images/ceremony-style.jpg)| ![ceremony](images/ceremony.jpg)
+Candy | [Heartsie](https://github.com/Heartsie) | full coco, 2.6 epochs, image_size 512 (crop) | ![candy](images/candy-style.jpg)| ![candy](images/candy.jpg)
 Fur | [6o6o](https://github.com/6o6o) | full coco, 1 epoch, image_size 512 (crop) | ![fur](images/fur-style.jpg)| ![fur](images/fur.jpg)
