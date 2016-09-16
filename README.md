@@ -3,7 +3,7 @@
 Some models trained by different people using the [chainer fast neuralstyle app](https://github.com/yusuketomoto/chainer-fast-neuralstyle) by yusuketomoto.
 Please note, there has been a change on how the models are trained which makes them not suitable for the most recent version relased. Will update here soon.
 
-The animated gifs have been created with a simple "real-time" video capture wrapper written in python, will release the code shortly.
+The animated gifs have been created with a simple "real-time" video capture wrapper written in python. The code is available at https://github.com/gafr/chainer-fast-neuralstyle-video
 
 ## Compatible with old code ([0d96350](https://github.com/yusuketomoto/chainer-fast-neuralstyle/tree/0d96350))
 
