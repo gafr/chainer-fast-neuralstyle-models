@@ -25,3 +25,4 @@ Kanagawa | [6o6o](https://github.com/6o6o) | full coco, 2 epochs, image_size 512
 Candy | [Heartsie](https://github.com/Heartsie) | full coco, 2.6 epochs, image_size 512 (crop) | ![candy](images/candy-style.jpg)| ![candy](images/candy.jpg)
 Fur | [6o6o](https://github.com/6o6o) | full coco, 1 epoch, image_size 512 (crop) | ![fur](images/fur-style.jpg)| ![fur](images/fur.jpg)
 Starry Night | [DylanAlloy](https://github.com/DylanAlloy) | full coco, 2 epochs, image_size 512 (crop) | ![starry](images/starry-style.jpg)| ![starry](images/starry.jpg)
+The Scream | [DylanAlloy](https://github.com/DylanAlloy) | full coco, 2 epochs, image_size 512 (crop) | ![scream](images/scream-style.jpg)| ![scream](images/scream-style.jpg)
